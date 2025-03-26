@@ -1,18 +1,1 @@
-{
-    "FLEXD": {
-        "user": "Ali Yılmaz",
-        "expiry": "2025-12-31",
-        "role": "admin"
-    },
-    "FREE": {
-        "user": "Mehmet Demir",
-        "expiry": "2027-10-15",
-        "role": "personel"
-    },
-    "ADMİN": {
-        "user": "Ayşe Kaya",
-        "expiry": "2025-05-20",
-        "role": "admin"
-    }
-}
-
+-------
